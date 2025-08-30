@@ -14,6 +14,7 @@
 
 - MICROSOFT
 - MICROSOFT FRONT-END DEVELOPER PROFESSIONAL CERTIFICATE
+- PROFESSIONAL FOUNDATION CERTIFICATE_ALX
 - 
 
 <h2> 🤳 Connect with me:</h2>
@@ -25,8 +26,11 @@
 
 [twitter]: https://twitter.com/nyaruakamau
 [youtube]: https://www.youtube.com/c/nyaruakamau
-[instagram]: https://www.instagram.com/nyaruakamau/
+[instagram]: https://www.instagram.com/nyaruakamau
 [linkedin]: https://linkedin.com/in/nyaruakamau
+
+ 📫 How to reach me: ... EMAIL: ELIZABETHKAMAU632@GMAIL.COM
+ 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
