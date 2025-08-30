@@ -30,6 +30,7 @@
 [linkedin]: https://linkedin.com/in/nyaruakamau
 
  📫 How to reach me: ... EMAIL: ELIZABETHKAMAU632@GMAIL.COM
+ 🔭 I’m currently working on ... FRONT-END DEVELOPMENT@ALX_AFRICA
  
 
 <!--
